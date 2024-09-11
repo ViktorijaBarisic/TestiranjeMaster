@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestiranjeProjekatMaster", "TestiranjeProjekatMaster\TestiranjeProjekatMaster.csproj", "{929A6CB8-00A8-403B-AE8E-D32832D4D9ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domen", "Domen\Domen.csproj", "{4786558F-F777-469B-A6F0-8A0616130921}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{929A6CB8-00A8-403B-AE8E-D32832D4D9ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{929A6CB8-00A8-403B-AE8E-D32832D4D9ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{929A6CB8-00A8-403B-AE8E-D32832D4D9ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{929A6CB8-00A8-403B-AE8E-D32832D4D9ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4786558F-F777-469B-A6F0-8A0616130921}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4786558F-F777-469B-A6F0-8A0616130921}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4786558F-F777-469B-A6F0-8A0616130921}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4786558F-F777-469B-A6F0-8A0616130921}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6440EE6C-392E-4A9C-901B-48269A307968}
+	EndGlobalSection
+EndGlobal
